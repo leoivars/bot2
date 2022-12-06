@@ -31,3 +31,5 @@ Bot2 is based on everything learned in bot but with these fundamental changes:
 
 3) the buyer thread will always run on an enabled simbol and the main thread will launch seller threads for each buy that will terminate once the sale is made.  
 
+
+
