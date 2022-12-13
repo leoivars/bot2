@@ -6,6 +6,8 @@ Here I put information for 'Leo of the future' in such a way that he remember wh
 # dec 12 2022
 test_logger.py ready 
 
+Next Translation: from acceso_db_conexion import Conexion_DB
+
 # dec 11 2022
 candlestick_set.py ready
 
