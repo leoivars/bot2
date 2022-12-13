@@ -1,10 +1,19 @@
 # what I'm doing
 
-Here I put information for 'Leo of the future' in such a way that I remember what I am doing and continue with this task.
+Here I put information for 'Leo of the future' in such a way that he remember what I am doing and continue with this task.
 
+
+# dec 12 2022
+test_logger.py ready 
 
 # dec 11 2022
 candlestick_set.py ready
+
+now translating / refactoring: from variables_globales import Global_State
+I see too complex to translate Global_State without touch many other modules. So I pass to the next module and will come back when the time of change it comes.
+
+Next: pws.py --> moved to core/pws.py no need translation
+Next: logger.py --> moved to core/logger.py ready
 
 # dec 6 2022
 velaset.py translating velaset.py --> candlestick_set.py
